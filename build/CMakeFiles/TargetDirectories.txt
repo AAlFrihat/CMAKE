@@ -1,0 +1,3 @@
+D:/Codes/cmake/cmake/build/CMakeFiles/HelloAppBinary.dir
+D:/Codes/cmake/cmake/build/CMakeFiles/edit_cache.dir
+D:/Codes/cmake/cmake/build/CMakeFiles/rebuild_cache.dir
